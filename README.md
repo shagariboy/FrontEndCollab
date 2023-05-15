@@ -6,10 +6,10 @@ Welcome to the Front End Collab! Our community is a beginner-friendly place for 
 React
 
 ### Added dependencies
-`styled-components`
-'react-router-dom'
-'axios'
-'react-icons'
+* `styled-components`
+* `react-router-dom`
+* `axios`
+* `react-icons`
 
 <b>Please do not re-install any of the dependencies above</b>
 
